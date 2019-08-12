@@ -1,0 +1,14 @@
+md5: 18f5edc023d275095ffdb334b4183ad3
+cmd: python ./src/data/make_dataset.py data/raw/FB15k-237 data/processed/FB15k-237/
+wdir: .
+deps:
+- md5: aba53d1ec1762b2f6a38742c389d25d1.dir
+  path: data/raw/FB15k-237
+- md5: 5c2f5e59861f9a2add40bbdbd608372d
+  path: src/data/make_dataset.py
+outs:
+- md5: a18aa0d13b1c49e192208dcdbdf32f7d.dir
+  path: data/processed/FB15k-237
+  cache: true
+  metric: false
+  persist: false

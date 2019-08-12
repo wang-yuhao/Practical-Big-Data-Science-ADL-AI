@@ -1,0 +1,1 @@
+from .rotate_evaluation_model import RotatE

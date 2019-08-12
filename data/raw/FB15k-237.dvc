@@ -1,0 +1,8 @@
+md5: 0cb95bfabc1885054b06d683373fb428
+wdir: .
+outs:
+- md5: aba53d1ec1762b2f6a38742c389d25d1.dir
+  path: FB15k-237
+  cache: true
+  metric: false
+  persist: false

@@ -1,0 +1,1 @@
+from .transe_evaluation_model import TransE

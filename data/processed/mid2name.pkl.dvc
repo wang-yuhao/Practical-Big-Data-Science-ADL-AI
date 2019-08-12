@@ -1,0 +1,8 @@
+md5: 12d1dac54a661eaa04b4669552e39099
+wdir: ../..
+outs:
+- md5: abb5723e21bec77c101b6db31556779b
+  path: data/processed/mid2name.pkl
+  cache: true
+  metric: false
+  persist: false

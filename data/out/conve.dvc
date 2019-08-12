@@ -1,0 +1,8 @@
+md5: 09898295a675314b4ab0d583b23f4c07
+wdir: ../..
+outs:
+- md5: 35fc89dda49cf2279be9f030f551127f.dir
+  path: data/out/conve
+  cache: true
+  metric: false
+  persist: false
